@@ -33,10 +33,15 @@ Hey! you have been selected to this assessments in preparation for Blockchain Te
 1. We would invite you to demonstrate your implementation.
 
  ### Notes
-  - Implement in Python or NodeJS. 
+  - Implement in Python or NodeJS.
+  - Total Score 100 marks
+      - Part 1 & 2 = 35 marks each
+      - Part 3 = 30 marks
+  - For any clarifications reach out to academy@regovtech.com
+
 ### Submitting
 
-1. Publish your code on Github or bitbuckek.
+1. Publish your code on Github or bitbucket.
 3. Email us your repository link.
 
 
