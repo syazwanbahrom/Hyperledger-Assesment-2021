@@ -47,4 +47,4 @@ This assessment comprises of activities in three parts.
   - For any queries reach out to academy@regovtech.com and our team will respond back to you in 24hrs.
 
 
-Good Luck.
+Good Luck!
