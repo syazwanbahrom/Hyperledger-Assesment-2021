@@ -10,8 +10,8 @@ Hey! you have been selected to this assessments in preparation for Blockchain Te
 
 ## Part 1:
 1. Given the following numbers as input [9, 6, 2, 5, 1, 7, 8, 12, 40, 6, 3] write a function to sort and display as follows :
-  - Smallest to largest
-  - Largest to smallest
+    - Smallest to largest
+    - Largest to smallest
 
 2. What are linear and non-linear data Structures? Give any two examples.
 
@@ -20,16 +20,15 @@ Hey! you have been selected to this assessments in preparation for Blockchain Te
 4. What are the various operations that can be performed on different Data Structures? 
 
 5. Write a function that implement the following algorithms:
-  - Bubble sort
-  - Insertion sort
-  - Merge Sort
+    - Bubble sort
+    - Insertion sort
+    - Merge Sort
 
  ## Part 2:
 1. Build a book directory, where you would need to create endpoints. Retrieve all books or only one book by id. You can add a new book to the list. Only registered users can add books. Use any database or data collected as a JSON file.
 
 ### Notes and recommendations
-
-- Implement in Python or NodeJS. 
+  - Implement in Python or NodeJS. 
 
 ### Submitting
 
