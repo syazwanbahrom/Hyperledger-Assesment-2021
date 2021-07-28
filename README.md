@@ -27,9 +27,13 @@ Hey! you have been selected to this assessments in preparation for Blockchain Te
  ## Part 2:
 1. Build a book directory, where you would need to create endpoints. Retrieve all books or only one book by id. You can add a new book to the list. Only registered users can add books. Use any database or data collected as a JSON file.
 
-### Notes and recommendations
-  - Implement in Python or NodeJS. 
+ ## Part 3:
+ 
+1. We would invite you to demonstrate your implementation.
 
+ ### Notes
+  - Implement in Python or NodeJS. 
+  - Complete between five (5) business days.
 ### Submitting
 
 1. Publish your code on Github or bitbuckek.
