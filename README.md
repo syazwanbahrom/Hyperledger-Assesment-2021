@@ -29,8 +29,6 @@ This assessment comprises of activities in three parts.
 
 ### Part 2:
 1. Build a book directory, where you would need to create endpoints. Retrieve all books or only one book by id. You can add a new book to the list. Only registered users can add books. Use any database or data collected as a JSON file.
-
-- Complete Part 1 & 2 within five (5) business days upon receipt of the assignment.
 ### Part 3:
 
 1. Demonstration of implementation. (You would be invited for a walkthrough)
@@ -41,6 +39,7 @@ This assessment comprises of activities in three parts.
 3. Email us your repository link.
 
  ### Points to be noted
+  - Complete Part 1 & 2 within five (5) business days upon receipt of the assignment.
   - Implementation programming language to be in Python or NodeJS.
   - Total Score 100 marks
       - Part 1 & 2 = 35 marks each
