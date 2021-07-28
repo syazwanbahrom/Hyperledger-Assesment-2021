@@ -1,10 +1,10 @@
 # Phase two Blockchain-training assessment
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1okX9PPjeNCvKC3EK83EF5ZrD9LDMldvO/view?usp=sharing" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1okX9PPjeNCvKC3EK83EF5ZrD9LDMldvO" width="200">
 </p>
 
-# Hyperledger Fabric Developer Training - Level 2 Assessment
+## Hyperledger Fabric Developer Training - Level 2 Assessment
 ## Course Details
 This is an initiative by Yayasan Peneraju Pendidikan Bumiputera as part of the effort to upskill Bumiputera talents in Malaysia. A newly designed part programme that provides partial funding for training and certification fees for selected programmes. Funding For Technology-Related Certifications For Working/Non Working Adults
 
