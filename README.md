@@ -9,6 +9,7 @@ Phase two assessment screening
 
 Hey! You have been selected to this assessments in preparation for Blockchain Technology training program. Attempt the following questions and be free to go above and beyond, this attracts extra points.
 
+## Part 1:
 1. Given these number set as input [9, 6, 2, 5, 1, 7, 8, 12, 40, 6, 3] wirte a function that sort and display as follows :
  - Smallest to largest number
  - Largest to smallest number
@@ -23,10 +24,13 @@ Hey! You have been selected to this assessments in preparation for Blockchain Te
  - Bubble sort
  - Insertion sort
  - Merge Sort
+
+ ## Part 2:
+1. Build a book directory, where you would need to create endpoints. Retrieve all books or only one book by id. You can add a new book to the list. Only registered users can add books. Use any database or data collected as a JSON file.
+
 ### Notes and recommendations
 
-- Use any programming language of your choice.
-
+- Implement in Python or NodeJS. 
 
 ### Submitting
 
