@@ -44,7 +44,7 @@ This assessment comprises of activities in three parts.
   - Total Score 100 marks
       - Part 1 & 2 = 35 marks each
       - Part 3 = 30 marks
-  - For any queries reach out to academy@regovtech.com our team will respond back to you in 24hrs.
+  - For any queries reach out to academy@regovtech.com and our team will respond back to you in 24hrs.
 
 
 Good Luck!
