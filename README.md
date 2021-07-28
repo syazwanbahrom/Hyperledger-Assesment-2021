@@ -1,5 +1,3 @@
-# Phase two Blockchain-training assessment
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1okX9PPjeNCvKC3EK83EF5ZrD9LDMldvO" width="200">
 </p>
