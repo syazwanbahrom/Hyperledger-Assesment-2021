@@ -44,6 +44,7 @@ This assessment comprises of activities in three parts.
   - Total Score 100 marks
       - Part 1 & 2 = 35 marks each
       - Part 3 = 30 marks
+      - Passing Score: 60 out of 100 ( with min 20 marks in each of the parts)
   - For any queries reach out to academy@regovtech.com and our team will respond back to you in 24hrs.
 
 
