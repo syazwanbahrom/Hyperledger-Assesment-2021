@@ -67,4 +67,25 @@ We have recieved a request to create a new class `DevAccount` inheriting from th
 Please implement the afformentioned class and their functions
 
 ### Question 2c
-Write a brief analysis about why you would use inheritance in this situation. You will be asked to demonstrate your code in a live interview.
+Write a brief analysis about why you would use inheritance in this situation. 
+
+## Question 3
+You will be asked to demonstrate your code and thought process in a live interview. Prior to the demonstration, please ensure that all your code is working correctly.
+
+
+# Submission process
+
+1. Publish your code on Github or bitbucket.
+2. Email us your repository link.
+
+ ## Points to be noted
+  - Complete Questions 1 & 2 within five (5) business days upon receipt of the assignment.
+  - Implementation programming language to be in Python or NodeJS (Optional: Typescript).
+  - Total Score 100 marks
+      - Question 1 & 2 = 35 marks each
+      - Question 3 = 30 marks
+      - Passing Score: 60 out of 100 ( with min 20 marks in each of the parts)
+  - For any queries reach out to academy@regovtech.com and our team will respond back to you in 24hrs.
+
+
+Good Luck!
