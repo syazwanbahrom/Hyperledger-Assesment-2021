@@ -1,4 +1,4 @@
-## Hyperledger Fabric Developer Training - Level 2 Assessment
+## Hyperledger Fabric Developer Training - Assessment
 
 ## What is the purpose of this assessment?
 You have entered the second level assessment for Hyperledger Fabric developer training sponsored by Yayasan Peneraju Pendidikan Bumiputera. 
@@ -58,7 +58,7 @@ Please implement the afformentioned class and their functions
 2. Email us your repository link.
 
  ## Points to be noted
-  - Complete Questions 1 & 2 within five (3) business days upon receipt of the assignment.
+  - Complete sections 1 & 2 within five (3) business days upon receipt of the assignment.
   - Implementation programming language to be in Python or NodeJS (Optional: Typescript).
   - For any queries reach out to academy@regovtech.com and our team will respond back to you in 24hrs.
 
