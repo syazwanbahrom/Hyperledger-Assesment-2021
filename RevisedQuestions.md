@@ -9,22 +9,7 @@ Use any programming language you like to complete this assessment, but we recomm
 ## Questions
 Please complete the following and send the assessment to the email address provided.
 
-### Question 1a 
-
-You are given the following information, but you may prefer to do some research for yourself.
-```
-1 Jan 1900 was a Monday.
-Thirty days has September,
-April, June and November.
-All the rest have thirty-one,
-Saving February alone,
-Which has twenty-eight, rain or shine.
-And on leap years, twenty-nine.
-A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
-```
-**How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?**
-
-### Question 1b
+### Question 1
 
 Using NO BUILT IN LIBRARIES, write a program that satisfies the following problem:  
 
@@ -66,12 +51,6 @@ We have recieved a request to create a new class `DevAccount` inheriting from th
 </ul>
 Please implement the afformentioned class and their functions
 
-### Question 2c
-Write a brief analysis about why you would use inheritance in this situation. 
-
-## Question 3
-You will be asked to demonstrate your code and thought process in a live interview. Prior to the demonstration, please ensure that all your code is working correctly.
-
 
 # Submission process
 
@@ -79,12 +58,8 @@ You will be asked to demonstrate your code and thought process in a live intervi
 2. Email us your repository link.
 
  ## Points to be noted
-  - Complete Questions 1 & 2 within five (5) business days upon receipt of the assignment.
+  - Complete Questions 1 & 2 within five (3) business days upon receipt of the assignment.
   - Implementation programming language to be in Python or NodeJS (Optional: Typescript).
-  - Total Score 100 marks
-      - Question 1 & 2 = 35 marks each
-      - Question 3 = 30 marks
-      - Passing Score: 60 out of 100 ( with min 20 marks in each of the parts)
   - For any queries reach out to academy@regovtech.com and our team will respond back to you in 24hrs.
 
 
