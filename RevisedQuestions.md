@@ -6,7 +6,7 @@ This assessment is designed to evaluate your programming fundamentals, critical 
 
 Use any programming language you like to complete this assessment, but we recommend Python, NodeJS, Typescript, or Java.
 
-## Questions
+## Section 1
 Please complete the following and send the assessment to the email address provided.
 
 ### Question 1
@@ -20,10 +20,10 @@ and the sum of the digits in the number `10!` is `3 + 6 + 2 + 8 + 8 + 0 + 0 = 27
 
 Find the sum of the digits in the number 100!
 
-## Question 2
+## Section 2
 This section will evaluate your software practices, with a focus on object oriented programming. Do this question in a sepereate folder, in your preferred programming language.
 
-### Question 2a
+### Question 1
 We have provided you with a stub class called `Account` that represents a bank account. Please fill out the stub functions, then write a program that creates 3 unique instances of the class, and store them in a data structure of your choice. Explain your thought process behind choosing a data structure.
 
 ```
@@ -41,7 +41,7 @@ class Account:
         return f"{self.name}'s account. Balance: {self.balance}"
 ```
 
-### Question 2b
+### Question 2
 We have recieved a request to create a new class `DevAccount` inheriting from the `Account` class for testing and development purposes. This new class contains the additional functions:
 <ul>
 <li> Get Balance </li>
