@@ -1,7 +1,7 @@
-## Hyperledger Fabric Developer Training - Assessment
+## Hyperledger Fabric Developer Certification Training - Assessment
 
 ## What is the purpose of this assessment?
-You have entered the second level assessment for Hyperledger Fabric developer training sponsored by Yayasan Peneraju Pendidikan Bumiputera. 
+You have been selected for assessment for Hyperledger Fabric developer certification training sponsored by Yayasan Peneraju Pendidikan Bumiputera. 
 This assessment is designed to evaluate your programming fundamentals, critical thinking, and software engineering practices.
 
 Use any programming language you like to complete this assessment, but we recommend Python, NodeJS, Typescript, or Java.
