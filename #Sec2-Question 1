@@ -1,1 +1,13 @@
+# Bank Account
+class Bankaccount:
+    def __init__ (self):
 
+# Deposit amount
+def deposit(self):
+        amount = float(input("amount to be deposited: "))
+        self.balance += amount
+        print("\n Amount Deposited:", amount)
+
+# To display the amount
+def display(self):
+    print("\Net Available Balance="), self.balance)
