@@ -1,1 +1,25 @@
+class Bank_Account:
+    def __init__(self):
+        self.balance = 0
+        print("Account is created")
 
+    def deposit(self):
+        amount = float(input("Enter the amount to be deposit"))
+        self.balance = self.balance + amount
+        print("Deposit is sucessful and the balance in the account is %f" % self.balance )
+
+    def withdraw(self):
+        amount = float(input("Enter the amount to withdraw"))
+        if (self.balance >= amount):
+           self.balance = self.balance - amount
+           print("The withdraw is successful and balance is %" % self.balance)
+        else:
+            print('Insufficient balance')
+
+        def enquiry(self):
+            print("Balance in the account is %f" % self.balance)
+
+s = Bank_Account()
+s.deposit()
+s.withdraw()
+s.deposit()
