@@ -1,4 +1,4 @@
-# Bank Account
+# Bank account
 class Bankaccount:
     def __init__ (self):
 
