@@ -12,8 +12,3 @@ else:
         factorial = factorial * num
 
     print("{}! = {}".format(number, factorial))
-
-
-
-
-
